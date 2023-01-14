@@ -1,0 +1,1 @@
+{"id":"6e877d71-3215-412c-92f2-3efe2c0aad97","space":47945,"runtime":"nodejs14.x","name":"FirstTask","path":"8sp3m2","project":"d09mh2rs","account":"144798365827","region":"ap-south-1","deps":["express@^4.18.2","dotenv@^16.0.3","mongoose@^6.8.1","nodemon@^2.0.20"],"envs":null,"public":true,"log_level":"off","cron":""}
